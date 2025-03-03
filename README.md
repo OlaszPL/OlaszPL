@@ -34,6 +34,4 @@
 
 ![OlaszPL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaszPL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
 
-![Snake animation](https://github.com/OlaszPL/OlaszPL/blob/output/github-contribution-grid-snake.svg)
-
 </div>
