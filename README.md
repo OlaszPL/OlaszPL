@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**OlaszPL/OlaszPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aleksander
 
-Here are some ideas to get you started:
+### Software Developer | Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 👨 About me:
+
+</div>
+
+### Key facts
+
+- 👨‍🎓 **Bachelor’s degree** (Engineering) **student** in **Computer Science** from the **Faculty of Computer Science** at the **AGH University of Krakow**,
+
+- 💻 I enjoy **coding, developing personal projects**, and **exploring new technologies**.
+
+- 🎧 In my free time, I enjoy music 🎵, watching films 🎥 and playing RPGs and board games 🎲. I'm also a physics enthusiast ⚛️.
