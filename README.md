@@ -17,3 +17,16 @@
 - 💻 I enjoy **coding, developing personal projects**, and **exploring new technologies**.
 
 - 🎧 In my free time, I enjoy music 🎵, watching films 🎥 and playing RPGs and board games 🎲. I'm also a physics enthusiast ⚛️.
+
+
+<div align="center">
+
+## 🚀 Languages that I know
+
+[![Languages](https://skillicons.dev/icons?i=py,java,c,bash,r)](https://skillicons.dev)
+
+## 🛠️ Technologies I have worked with
+
+[![Technologies](https://skillicons.dev/icons?i=arduino,cloudflare,docker,git,github,gradle,idea,linux,redhat,vscode,md)](https://skillicons.dev)
+
+</div>
