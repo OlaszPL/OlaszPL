@@ -29,4 +29,9 @@
 
 [![Technologies](https://skillicons.dev/icons?i=arduino,cloudflare,docker,git,github,gradle,idea,linux,redhat,vscode,md)](https://skillicons.dev)
 
+
+## 🔥 Statistics
+
+![OlaszPL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaszPL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
+
 </div>
