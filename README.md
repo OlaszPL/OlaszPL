@@ -6,6 +6,10 @@
 
 <br>
 
+![](https://komarev.com/ghpvc/?username=OlaszPL&color=brightgreen&style=flat-square&abbreviated=true)
+
+<br>
+
 ## 👨 About me:
 
 </div>
