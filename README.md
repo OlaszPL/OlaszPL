@@ -27,7 +27,7 @@
 
 ## 🛠️ Technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=arduino,cloudflare,docker,git,github,gradle,idea,linux,redhat,vscode,md)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=arduino,cloudflare,docker,git,github,gradle,idea,linux,redhat,vscode,md,raspberrypi)](https://skillicons.dev)
 
 
 ## 🔥 Statistics
