@@ -36,7 +36,7 @@
 
 ## 🔥 Statistics
 
-![OlaszPL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaszPL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
+![OlaszPL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaszPL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OlaszPL/OlaszPL/output/github-contribution-grid-snake-dark.svg" />
