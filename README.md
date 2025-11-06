@@ -27,11 +27,11 @@
 
 ## 🚀 Languages that I know
 
-[![Languages](https://skillicons.dev/icons?i=py,java,c,bash,r)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,c,rust,bash,elixir)](https://skillicons.dev)
 
 ## 🛠️ Technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=arduino,cloudflare,docker,git,github,gradle,idea,linux,redhat,vscode,md,raspberrypi)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=arduino,cloudflare,docker,git,github,gitlab,gradle,maven,idea,linux,redhat,vscode,md,raspberrypi)](https://skillicons.dev)
 
 
 ## 🔥 Statistics
